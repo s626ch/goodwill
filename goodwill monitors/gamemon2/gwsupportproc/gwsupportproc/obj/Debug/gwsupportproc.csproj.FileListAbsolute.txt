@@ -1,0 +1,16 @@
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\bin\Debug\gwsupportproc.exe.config
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\bin\Debug\gwsupportproc.exe
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\bin\Debug\gwsupportproc.pdb
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.csproj.AssemblyReference.cache
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.csproj.SuggestedBindingRedirects.cache
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.csproj.CoreCompileInputs.cache
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.exe
+F:\Software Engineering files\C#\C# Day one\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.pdb
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\bin\Debug\gwsupportproc.exe.config
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\bin\Debug\gwsupportproc.exe
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\bin\Debug\gwsupportproc.pdb
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.csproj.AssemblyReference.cache
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.csproj.SuggestedBindingRedirects.cache
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.csproj.CoreCompileInputs.cache
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.exe
+F:\Software Engineering files\C#\goodwill monitors\gamemon2\gwsupportproc\gwsupportproc\obj\Debug\gwsupportproc.pdb
